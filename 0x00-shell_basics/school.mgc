@@ -2,5 +2,5 @@
 0 string SCHOOL school data
 !:mine School
 chmod u+x school.mgc
-file -c -m my_magic
+file -c -m my-magic
 file -c -m school.mgc *
