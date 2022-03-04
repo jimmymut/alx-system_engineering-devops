@@ -3,4 +3,4 @@
 !:mine School
 chmod u+x school.mgc
 file -c -m my_magic
-file -c -m school.mgc*
+file -c -m school.mgc *
