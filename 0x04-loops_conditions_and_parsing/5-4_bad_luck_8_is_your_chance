@@ -9,8 +9,8 @@ do
 	elif [ $x -eq 8 ]
 	then
 	    echo "good luck"
-       	else
-	    echo "Holberton School"
+	else
+	    echo "Best School"
 	fi
 	((x++))
 done
